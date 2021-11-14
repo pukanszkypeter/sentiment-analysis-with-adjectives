@@ -1,2 +1,5 @@
 # Dataset
 wine-reviews-130k.json
+
+# Checkpoints
+.ipynb_checkpoints
